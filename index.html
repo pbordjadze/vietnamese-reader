@@ -512,7 +512,7 @@ function VietnameseReader() {
     <div ref={containerRef} style={{
       minHeight: "100%",
       background: `radial-gradient(ellipse at top, ${styles.cream} 0%, ${styles.creamDark} 100%)`,
-      fontFamily: "'Cormorant Garamond', Georgia, serif",
+      fontFamily: "'Cormorant Garamond', serif",
       color: styles.ink, padding: 0, position: "relative", overflow: "hidden",
     }}>
       <div style={{
@@ -1222,7 +1222,7 @@ function FlashcardView({ cards, idx, flipped, styles, onFlip, onNext, onPrev, on
       {isComplete ? (
         <div style={{ textAlign: "center", paddingTop: "80px" }}>
           <div style={{ fontSize: "48px", marginBottom: "24px", color: styles.gold }}>✓</div>
-          <div style={{ fontSize: "24px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', Georgia, serif", marginBottom: "8px" }}>
+          <div style={{ fontSize: "24px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', serif", marginBottom: "8px" }}>
             Study Complete
           </div>
           <button onClick={onBack} style={{
@@ -1254,7 +1254,7 @@ function FlashcardView({ cards, idx, flipped, styles, onFlip, onNext, onPrev, on
                 alignItems: "center", justifyContent: "center",
                 padding: "40px 32px",
               }}>
-                <div style={{ fontSize: "52px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', Georgia, serif", textAlign: "center" }}>
+                <div style={{ fontSize: "52px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', serif", textAlign: "center" }}>
                   {card.word}
                 </div>
                 <div style={{ fontSize: "11px", color: styles.inkSoft, marginTop: "28px", fontFamily: "'DM Sans', sans-serif", letterSpacing: "0.12em", textTransform: "uppercase" }}>
@@ -1271,7 +1271,7 @@ function FlashcardView({ cards, idx, flipped, styles, onFlip, onNext, onPrev, on
                 padding: "28px 32px",
                 display: "flex", flexDirection: "column", justifyContent: "center",
               }}>
-                <div style={{ fontSize: "36px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', Georgia, serif", marginBottom: "10px" }}>
+                <div style={{ fontSize: "36px", fontWeight: 600, color: styles.wine, fontFamily: "'Cormorant Garamond', serif", marginBottom: "10px" }}>
                   {card.word}
                 </div>
                 <div style={{ fontSize: "15px", color: styles.ink, fontFamily: "'DM Sans', sans-serif", lineHeight: 1.5, marginBottom: "16px" }}>
@@ -1280,7 +1280,7 @@ function FlashcardView({ cards, idx, flipped, styles, onFlip, onNext, onPrev, on
                 {card.sentenceContext && (
                   <div style={{
                     fontSize: "13px", color: styles.inkSoft, fontStyle: "italic",
-                    fontFamily: "'Cormorant Garamond', Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', serif",
                     borderLeft: `2px solid ${styles.gold}`, paddingLeft: "12px", lineHeight: 1.6,
                   }}>
                     {card.sentenceContext}
