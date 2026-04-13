@@ -1,6 +1,6 @@
-# ქართული Reader
+# Tiếng Việt Reader
 
-A single-page Georgian reading PWA. No build step, no backend.
+A single-page Vietnamese reading PWA. No build step, no backend.
 
 ## Files
 
@@ -26,7 +26,7 @@ After the first load with a network connection, the service worker caches everyt
 
 ## Data persistence
 
-All stories, saved words, and archive state live in `localStorage` under the `georgian-reader:*` keys. iOS may evict localStorage for PWAs that haven't been opened in ~7 weeks, so use the **export backup** button periodically to save a JSON file you can re-import.
+All stories, saved words, and archive state live in `localStorage` under the `vietnamese-reader:*` keys. iOS may evict localStorage for PWAs that haven't been opened in ~7 weeks, so use the **export backup** button periodically to save a JSON file you can re-import.
 
 ## Updating the app
 
