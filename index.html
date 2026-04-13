@@ -254,7 +254,7 @@ function VietnameseReader() {
     if (Array.isArray(s) && s.length > 0) {
   setStories(s);
 } else {
-  fetch("story-vietnamese-jared.json")
+  fetch("/vietnamese-reader/story-vietnamese-jared.json")
     .then((res) => res.json())
     .then((data) => {
       try {
