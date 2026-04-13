@@ -252,8 +252,22 @@ function VietnameseReader() {
     if (Array.isArray(w)) setSavedWords(w);
     const s = storage.get(STORIES_KEY);
     if (Array.isArray(s) && s.length > 0) {
-      setStories(s);
-    }
+  setStories(s);
+} else {
+  fetch("story-vietnamese-jared.json")
+    .then((res) => res.json())
+    .then((data) => {
+      try {
+        const built = buildStoriesFromData(data, "seed");
+        setStories(built);
+      } catch (e) {
+        console.error("Invalid default story:", e.message);
+      }
+    })
+    .catch(() => {
+      console.error("Could not load story.json");
+    });
+}
     const a = storage.get(ARCHIVED_KEY);
     if (Array.isArray(a)) setArchivedIds(a);
     const k = storage.get(API_KEY_KEY);
