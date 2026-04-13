@@ -1,7 +1,7 @@
 {
-  "name": "ქართული Reader",
-  "short_name": "ქართული",
-  "description": "A reader for learning Georgian",
+  "name": "Tiếng Việt Reader",
+  "short_name": "Tiếng Việt",
+  "description": "A reader for learning Vietnamese",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
