@@ -1,0 +1,228 @@
+{
+  "id": "jared-va-paul",
+  "title": "Jared và Paul",
+  "titleEn": "Jared and Paul",
+  "description": "Jared learns Vietnamese while his friend Paul travels to Georgia",
+  "difficulty": "A1",
+  "sentences": [
+    {
+      "words": [
+        { "word": "Jared", "gloss": "Jared (name)" },
+        { "word": "là", "gloss": "is / am / are" },
+        { "word": "người", "gloss": "person" },
+        { "word": "Mỹ", "gloss": "American / America" }
+      ],
+      "trailing": ".",
+      "english": "Jared is American."
+    },
+    {
+      "words": [
+        { "word": "Anh", "gloss": "he (literally: older brother — used for men)" },
+        { "word": "ấy", "gloss": "that (with Anh = he)" },
+        { "word": "học", "gloss": "studies / learns" },
+        { "word": "tiếng", "gloss": "language" },
+        { "word": "Việt", "gloss": "Vietnamese / Viet" }
+      ],
+      "trailing": ".",
+      "english": "He studies Vietnamese."
+    },
+    {
+      "words": [
+        { "word": "Tiếng", "gloss": "language" },
+        { "word": "Việt", "gloss": "Vietnamese" },
+        { "word": "rất", "gloss": "very" },
+        { "word": "khó", "gloss": "difficult / hard" }
+      ],
+      "trailing": ".",
+      "english": "Vietnamese is very hard."
+    },
+    {
+      "words": [
+        { "word": "Nhưng", "gloss": "but" },
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "thích", "gloss": "likes" },
+        { "word": "học", "gloss": "to study / learning" }
+      ],
+      "trailing": ".",
+      "english": "But Jared likes studying."
+    },
+    {
+      "words": [
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "có", "gloss": "has" },
+        { "word": "một", "gloss": "one / a" },
+        { "word": "người", "gloss": "person" },
+        { "word": "bạn", "gloss": "friend" }
+      ],
+      "trailing": ".",
+      "english": "Jared has a friend."
+    },
+    {
+      "words": [
+        { "word": "Bạn", "gloss": "the friend" },
+        { "word": "của", "gloss": "of" },
+        { "word": "anh", "gloss": "him" },
+        { "word": "ấy", "gloss": "that (with anh = him)" },
+        { "word": "tên", "gloss": "name" },
+        { "word": "là", "gloss": "is" },
+        { "word": "Paul", "gloss": "Paul" }
+      ],
+      "trailing": ".",
+      "english": "His friend's name is Paul."
+    },
+    {
+      "words": [
+        { "word": "Paul", "gloss": "Paul" },
+        { "word": "không", "gloss": "not" },
+        { "word": "học", "gloss": "studies" },
+        { "word": "tiếng", "gloss": "language" },
+        { "word": "Việt", "gloss": "Vietnamese" }
+      ],
+      "trailing": ".",
+      "english": "Paul does not study Vietnamese."
+    },
+    {
+      "words": [
+        { "word": "Paul", "gloss": "Paul" },
+        { "word": "học", "gloss": "studies" },
+        { "word": "tiếng", "gloss": "language" },
+        { "word": "Gruzia", "gloss": "Georgian / Georgia" }
+      ],
+      "trailing": ".",
+      "english": "Paul studies Georgian."
+    },
+    {
+      "words": [
+        { "word": "Tiếng", "gloss": "language" },
+        { "word": "Gruzia", "gloss": "Georgian" },
+        { "word": "cũng", "gloss": "also" },
+        { "word": "rất", "gloss": "very" },
+        { "word": "khó", "gloss": "hard" }
+      ],
+      "trailing": "!",
+      "english": "Georgian is also very hard!"
+    },
+    {
+      "words": [
+        { "word": "Hôm", "gloss": "day" },
+        { "word": "nay", "gloss": "this (with Hôm = today)" },
+        { "word": "Paul", "gloss": "Paul" },
+        { "word": "đi", "gloss": "goes" },
+        { "word": "Gruzia", "gloss": "to Georgia" }
+      ],
+      "trailing": ".",
+      "english": "Today Paul goes to Georgia."
+    },
+    {
+      "words": [
+        { "word": "Anh", "gloss": "he" },
+        { "word": "ấy", "gloss": "(with Anh = he)" },
+        { "word": "đi", "gloss": "goes" },
+        { "word": "với", "gloss": "with" },
+        { "word": "bạn", "gloss": "friend" },
+        { "word": "gái", "gloss": "girl (with bạn = girlfriend)" }
+      ],
+      "trailing": ".",
+      "english": "He goes with his girlfriend."
+    },
+    {
+      "words": [
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "ở", "gloss": "stays / is at" },
+        { "word": "nhà", "gloss": "home" }
+      ],
+      "trailing": ".",
+      "english": "Jared stays home."
+    },
+    {
+      "words": [
+        { "word": "Anh", "gloss": "he" },
+        { "word": "ấy", "gloss": "(with Anh = he)" },
+        { "word": "buồn", "gloss": "sad" },
+        { "word": "một", "gloss": "a" },
+        { "word": "chút", "gloss": "little (with một = a little)" }
+      ],
+      "trailing": ".",
+      "english": "He is a little sad."
+    },
+    {
+      "words": [
+        { "word": "Nhưng", "gloss": "but" },
+        { "word": "anh", "gloss": "he" },
+        { "word": "ấy", "gloss": "(with anh = he)" },
+        { "word": "có", "gloss": "has" },
+        { "word": "một", "gloss": "an" },
+        { "word": "ý", "gloss": "idea" },
+        { "word": "tưởng", "gloss": "(with ý = idea)" }
+      ],
+      "trailing": ".",
+      "english": "But he has an idea."
+    },
+    {
+      "words": [
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "mở", "gloss": "opens" },
+        { "word": "máy", "gloss": "machine" },
+        { "word": "tính", "gloss": "(with máy = computer)" }
+      ],
+      "trailing": ".",
+      "english": "Jared opens his computer."
+    },
+    {
+      "words": [
+        { "word": "Anh", "gloss": "he" },
+        { "word": "ấy", "gloss": "(with Anh = he)" },
+        { "word": "đọc", "gloss": "reads" },
+        { "word": "một", "gloss": "a" },
+        { "word": "câu", "gloss": "sentence" },
+        { "word": "chuyện", "gloss": "(with câu = story)" }
+      ],
+      "trailing": ".",
+      "english": "He reads a story."
+    },
+    {
+      "words": [
+        { "word": "Câu", "gloss": "sentence" },
+        { "word": "chuyện", "gloss": "(with câu = story)" },
+        { "word": "này", "gloss": "this" },
+        { "word": "bằng", "gloss": "by means of / in" },
+        { "word": "tiếng", "gloss": "language" },
+        { "word": "Việt", "gloss": "Vietnamese" }
+      ],
+      "trailing": ".",
+      "english": "This story is in Vietnamese."
+    },
+    {
+      "words": [
+        { "word": "Câu", "gloss": "sentence" },
+        { "word": "chuyện", "gloss": "(with câu = story)" },
+        { "word": "nói", "gloss": "talks / tells" },
+        { "word": "về", "gloss": "about" },
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "và", "gloss": "and" },
+        { "word": "Paul", "gloss": "Paul" }
+      ],
+      "trailing": "!",
+      "english": "The story is about Jared and Paul!"
+    },
+    {
+      "words": [
+        { "word": "Jared", "gloss": "Jared" },
+        { "word": "cười", "gloss": "laughs / smiles" }
+      ],
+      "trailing": ".",
+      "english": "Jared laughs."
+    },
+    {
+      "words": [
+        { "word": "Học", "gloss": "studying" },
+        { "word": "tiếng", "gloss": "language" },
+        { "word": "Việt", "gloss": "Vietnamese" },
+        { "word": "rất", "gloss": "very" },
+        { "word": "vui", "gloss": "fun" }
+      ],
+      "trailing": ".",
+      "english": "Studying Vietnamese is very fun."
+    }
+  ]
+}
