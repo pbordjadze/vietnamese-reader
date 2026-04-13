@@ -1,4 +1,4 @@
-const CACHE_NAME = "georgian-reader-v1";
+const CACHE_NAME = "vietnamese-reader-v1";
 const PRECACHE_URLS = [
   "./",
   "./index.html",
